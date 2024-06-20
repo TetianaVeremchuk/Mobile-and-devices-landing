@@ -1,4 +1,2 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
+Responsive landing page crafted based on a design following industry best practices. Optimized for SEO, performance, and accessibility. Built using modern technologies: HTML5, CSS3, and SCSS. Additional features include cross-browser compatibility and fast loading times.
     - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
